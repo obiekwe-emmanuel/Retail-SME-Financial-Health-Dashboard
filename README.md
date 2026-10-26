@@ -22,7 +22,7 @@ documented in `Dataset_Documentation.pdf`.
 ## Dashboard
 
 **Retail SME Financial Health Dashboard**
-![Retail SME Financial Health Dashboard](Retail-SME-Financial-Health-Dashboard/blob/main/Retail%20SME%20Financial%20Health%20Dashboard.png)
+![Retail SME Financial Health Dashboard](screenshots/Retail%20SME%20Financial%20Health%20Dashboard.png)
 
 **Retail SME Balance Sheet Overview**
 ![Retail SME Balance Sheet Overview](screenshots/Retail%20SME%20Balance%20Sheet%20Overview.png)
