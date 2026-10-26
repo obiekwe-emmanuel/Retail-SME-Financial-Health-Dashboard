@@ -22,13 +22,13 @@ documented in `Dataset_Documentation.pdf`.
 ## Dashboard
 
 **Retail SME Financial Health Dashboard**
-![Retail SME Financial Health Dashboard](screenshots/Retail%20SME%20Financial%20Health%20Dashboard.png)
+![Retail SME Financial Health Dashboard](Retail%20SME%20Financial%20Health%20Dashboard.png)
 
 **Retail SME Balance Sheet Overview**
-![Retail SME Balance Sheet Overview](screenshots/Retail%20SME%20Balance%20Sheet%20Overview.png)
+![Retail SME Balance Sheet Overview](Retail%20SME%20Balance%20Sheet%20Overview.png)
 
 **Retail SME Data Model**
-![Retail SME Data Model](screenshots/Retail%20SME%20Data%20Model.png)
+![Retail SME Data Model](Retail%20SME%20Data%20Model.png)
 
 ## Key Insights
 
